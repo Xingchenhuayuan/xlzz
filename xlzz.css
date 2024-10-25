@@ -1,0 +1,40 @@
+  a {
+    text-decoration: none;
+    color: #000;
+  }
+  body {
+    color: #000000;
+    margin: 0px;
+  }
+  .wrap {
+    background-color: rgba(0, 0, 0, 0.125);
+  }
+  .head {
+    background-color: rgb(0, 255, 0);
+  }
+  .logo {
+    display: inline-block;
+    height: 60px;
+    vertical-align: text-bottom;
+  }
+  .menu-list {
+    display: inline-block;
+    margin:0px 0px 0px 25%;
+    list-style-type: none;
+  }
+  .menu-item {
+    float: left;
+    margin: 5px 2px 5px 30px;
+    font-size: larger;
+  }
+  .type {}
+  .foot {
+    height: 200px;
+
+  }
+  .foot-list {
+    list-style-type: none;
+    display: inline-block;
+    vertical-align: text-top;
+    
+  }
